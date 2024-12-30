@@ -5,7 +5,7 @@ This repository provides a comprehensive implementation for predicting theatre p
 
   #### Data Preprocessing and Encoding:
   
-    Includes a custom-built module (data_processing_nd_encoding) for handling data preprocessing, feature engineering, and encoding tasks.
+  Includes a custom-built module (data_processing_nd_encoding) for handling data preprocessing, feature engineering, and encoding tasks.
 
   #### Predictive Modeling:
 
