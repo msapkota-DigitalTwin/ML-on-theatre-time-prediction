@@ -14,6 +14,26 @@ This repository provides a comprehensive implementation for predicting theatre p
   Contains reusable functions for predictive modeling (predictive_model_related_functions).
 
 
-### Notebook for Model Training and Testing:
+#### Notebook for Model Training and Testing:
 
   A Jupyter Notebook (Training_and_testing_multiple_models_TO.ipynb) is provided to guide users through training, testing, and evaluating multiple models.
+
+### Prerequisites
+
+To run the project, ensure you have the following installed:
+
+1. Python 3.x
+
+Required Python packages:
+
+- pandas
+
+- numpy
+
+- scikit-learn
+
+- matplotlib
+
+- seaborn
+
+Any additional dependencies listed in the requirements.txt file (to be included).
