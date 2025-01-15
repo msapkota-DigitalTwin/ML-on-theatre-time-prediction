@@ -1,6 +1,8 @@
 ### Overview
 This repository provides a comprehensive implementation for predicting theatre procedure times in a healthcare setting. It leverages data analytics and machine learning techniques to build predictive models aimed at enhancing operational efficiency and resource planning in hospitals. The repository includes self-built modules for data processing, encoding, and predictive modeling.
 
+Details on Problem Setting and Methodologies can be found in IEEE paper: https://ieeexplore.ieee.org/document/10803395
+
 ### Features
 
   #### Data Preprocessing and Encoding:
